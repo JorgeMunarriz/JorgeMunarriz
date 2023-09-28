@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, motorsports and racing
 - 🌱 I’m currently learning Full stack Development
 - 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me here, instagram https://www.instagram.com/jorge_munarriz/ , facebook https://www.facebook.com/profile.php?id=100010085599620   , o Linkedin  https://www.linkedin.com/in/jorge-mun%C3%A1rriz-guti%C3%A9rrez-solana-56b513220/
+- 📫 How to reach me here, instagram https://www.instagram.com/jorge_munarriz/ , facebook https://www.facebook.com/profile.php?id=100010085599620   , o Linkedin  https://www.linkedin.com/in/jorgemunarrizgutierrezsolana/
 <h1 align="center">Hi 👋, I'm Jorge Munárriz</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
